@@ -1,0 +1,119 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.nav {
+    height: 82px;
+    border-bottom: 2px solid #f0ecec;
+    padding-top: 16px;
+}
+
+.content .w h3 {
+    height: 41px;
+    line-height: 41px;
+    margin-top: 24px;
+    background-color: #ececec;
+    font-size: 18px;
+    padding-left: 11px;
+}
+
+.content .w .login {
+    float: right;
+    font-size: 14px;
+}
+
+.body {
+    width: 600px;
+    /* background-color: pink; */
+    margin: 56px auto;
+}
+
+.body .w ul li {
+    margin-bottom: 22px;
+}
+
+.error {
+    font-size: 12px;
+    color: red;
+}
+
+.error_icon {
+    display: inline-block;
+    width: 21px;
+    height: 20px;
+    background: url(../images/错误.png) no-repeat;
+    vertical-align: middle;
+}
+
+.right {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    font-size: 14px;
+}
+
+.body .w ul li .ipt {
+    width: 242px;
+    height: 36px;
+    border: 1px solid #999999
+}
+
+.safe {
+    padding-left: 170px;
+}
+
+.safe em {
+    padding: 0 12px;
+    font-size: 12px;
+    color: #fff;
+}
+
+.ruo {
+    background-color: #de1111;
+}
+
+.zhong {
+    background-color: #40b83f;
+}
+
+.qiang {
+    background-color: #f79100;
+}
+
+.agree {
+    padding-left: 95px;
+    ;
+}
+
+.agree a {
+    color: skyblue;
+}
+
+.agree input {
+    vertical-align: middle;
+}
+
+.btn_li {
+    padding-left: 100px;
+}
+
+.btn {
+    width: 200px;
+    height: 34px;
+    background-color: red;
+    color: #fff;
+}
+
+.mod_copyright {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.mod_copyright .links {
+    font-size: 12px;
+}
+
+.mod_copyright .copyright {
+    font-size: 12px;
+}
